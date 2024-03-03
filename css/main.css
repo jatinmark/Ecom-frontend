@@ -130,7 +130,7 @@ header.header-scrolled{
 /* mobile menu and navigation */
 
 .menu{
-  display: flex;
+  display: none;
   transition: 0.5s;
 }
 
